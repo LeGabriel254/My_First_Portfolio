@@ -3,11 +3,10 @@ body{
   flex-direction:column;
   flex: auto;
 }
-header,main{
+main{
   display: flex;
   flex-direction: row;
   flex: auto;
-  padding: 20px;
 }
 article{
   flex-direction: row;
@@ -16,8 +15,7 @@ article{
 }
 aside{
   flex: 1;
-  overflow-y: auto;
-  
+  overflow-y: auto
 }
 footer{
   flex-direction: column ;
