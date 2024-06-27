@@ -8,6 +8,7 @@ header,main{
   flex-direction: row;
   flex: auto;
   padding: 20px;
+  
 }
 article{
   flex-direction: row;
